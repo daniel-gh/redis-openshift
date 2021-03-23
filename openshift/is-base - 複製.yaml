@@ -7,4 +7,4 @@ metadata:
     name: rhel7-base
   name: rhel7
 spec:
-  dockerImageRepository: hub.docker.com/centos
+  dockerImageRepository: registry.access.redhat.com/rhel7
